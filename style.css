@@ -1,0 +1,34 @@
+#header{
+    background-color: skyblue;
+    
+    
+}
+
+#winner h1{
+    color: orangered;
+    
+}
+div{
+    text-align: center;
+    padding: 10%;
+    
+}
+#myCanvasTwo {
+    
+border:10px solid #000000;
+    
+    
+    
+}
+#myCanvas{
+   
+    border:10px solid steelblue;
+}
+
+#btn{
+    margin: auto;
+    width: 200px;
+    display: block;
+    background-color: orange;
+}
+
